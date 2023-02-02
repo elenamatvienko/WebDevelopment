@@ -1,0 +1,271 @@
+[
+  {
+    "title": "Сырники из творога",
+    "cookingTime": 30,
+    "cookingTimeUnitMeasurement": "мин.",
+    "numberServings": 2,
+    "numberServingsUnitMeasurement": "шт.",
+    "ingredients": [
+      {
+        "name": "Творог",
+        "productQuantity": 350,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Куриное яйцо",
+        "productQuantity": 2,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Пшеничная мука",
+        "productQuantity": 6,
+        "unitMeasurement": "ст. л."
+      },
+      {
+        "name": "Сахар",
+        "productQuantity": 2,
+        "unitMeasurement": "ст. л."
+      }
+    ],
+    "cookingInstructions": {
+      "1": "Смешайте весь творог с яйцами, сахаром и тщательно всё перемешайте.",
+      "2": "Всыпьте в творог муку и тщательно перемешайте.",
+      "3": "Поставьте сковороду на средний огонь и налейте в нее подсолнечное масло.",
+      "4": "Слепите несколько небольших шариков из получившейся творожной массы и положите их на тарелку. Затем по очереди обкатывайте творожные шарики в муке и выкладывайте на сковороду.",
+      "5": "Обжаривайте сырники 1–2 минуты до появления золотистой корочки. Затем переверните их на другую сторону и также обжарьте до золотистого состояния.",
+      "6": "Повторяйте, пока творог не закончится."
+    }
+  },
+  {
+    "title": "Салат из красной фасоли с творожным сыром, красным луком и сезонным салатом",
+    "cookingTime": 7,
+    "cookingTimeUnitMeasurement": "мин.",
+    "numberServings": 4,
+    "numberServingsUnitMeasurement": "шт.",
+    "ingredients": [
+      {
+        "name": "Специи ",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Консервированная фасоль",
+        "productQuantity": 400,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Лимон ",
+        "productQuantity": 1,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Чеснок  ",
+        "productQuantity": 2,
+        "unitMeasurement": "зубчика"
+      },
+      {
+        "name": "Оливковое масло",
+        "productQuantity": 50,
+        "unitMeasurement": "мл."
+      },
+      {
+        "name": "Рукола",
+        "productQuantity": 100,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Творожный сыр",
+        "productQuantity": 200,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Красный лук",
+        "productQuantity": 50,
+        "unitMeasurement": "гр."
+      }
+    ],
+    "cookingInstructions": {
+      "1": "Открыть две банки красной фасоли в собственном соку, слить сок и промыть фасоль холодной водой.",
+      "2": "Готовую фасоль смешать с мелко нарубленным красным луком, зеленью, давленым чесноком, оливковым маслом, лимонным соком и творожным сыром.",
+      "3": "Посолить, поперчить, дать продуктам две минуты притереться друг к другу и подавать к столу."
+    }
+  },
+  {
+    "title": "Чечевичный суп с мятой",
+    "cookingTime": 30,
+    "cookingTimeUnitMeasurement": "мин.",
+    "numberServings": 4,
+    "numberServingsUnitMeasurement": "шт.",
+    "ingredients": [
+      {
+        "name": "Красная чечевица",
+        "productQuantity": 150,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Репчатый лук",
+        "productQuantity": 1,
+        "unitMeasurement": "головка"
+      },
+      {
+        "name": "Морковь",
+        "productQuantity": 1,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Подсолнечное масло",
+        "productQuantity": 30,
+        "unitMeasurement": "мл."
+      },
+      {
+        "name": "Сливочное масло",
+        "productQuantity": 15,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Пшеничная мука",
+        "productQuantity": 30,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Сливки 33%",
+        "productQuantity": 30,
+        "unitMeasurement": "мл."
+      },
+      {
+        "name": "Специи ",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Лимон ",
+        "productQuantity": 0.5,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Мята",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      }
+    ],
+    "cookingInstructions": {
+      "1": "В небольшую кастрюлю налить литр воды и засыпать промытую чечевицу. Поставить кастрюлю на средний огонь.",
+      "2": "Натереть небольшую морковь на крупной терке, мелко нарезать лук. Как только чечевица начнет кипеть, надо убавить огонь, а затем долить еще 200 мл воды или бульона. Варить еще десять минут.",
+      "3": "Разогреть широкую плоскую сковороду, добавить туда подсолнечное и сливочное масло. Обжарить лук и морковь.",
+      "4": "Добавить обжаренные овощи в кастрюлю, влить сливки. Взбить суп ручным блендером, чтобы он превратился в густое пюре. Суп можно подавать к столу."
+    }
+  },
+  {
+    "title": "Салат с креветками и кунжутом",
+    "cookingTime": 20,
+    "cookingTimeUnitMeasurement": "мин.",
+    "numberServings": 2,
+    "numberServingsUnitMeasurement": "шт.",
+    "ingredients": [
+      {
+        "name": "Помидоры ",
+        "productQuantity": 3,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Королевские креветки",
+        "productQuantity": 300,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Зеленый салат",
+        "productQuantity": 1,
+        "unitMeasurement": "пучок"
+      },
+      {
+        "name": "Огурцы ",
+        "productQuantity": 2,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Специи",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Майонез",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Кунжутные семечки",
+        "productQuantity": 3,
+        "unitMeasurement": "ст. л."
+      }
+    ],
+    "cookingInstructions": {
+      "1": "Порезать овощи крупно, салат порвать на куски.",
+      "2": "Довести до кипения сильно соленую воду и добавить креветки. После кипения варить 5 минут.",
+      "3": "Очистить креветки от панциря.",
+      "4": "Смешать овощи и креветки.",
+      "5": "Посыпать кунжутными семечками и заправить майонезом."
+    }
+  },
+  {
+    "title": "Творожные пончики в сахарной пудре",
+    "cookingTime": 40,
+    "cookingTimeUnitMeasurement": "мин.",
+    "numberServings": 2,
+    "numberServingsUnitMeasurement": "шт.",
+    "ingredients": [
+      {
+        "name": "Творог",
+        "productQuantity": 250,
+        "unitMeasurement": "гр."
+      },
+      {
+        "name": "Куриное яйцо",
+        "productQuantity": 3,
+        "unitMeasurement": "шт."
+      },
+      {
+        "name": "Пшеничная мука",
+        "productQuantity": 8,
+        "unitMeasurement": "ст. л."
+      },
+      {
+        "name": "Сахар",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Соль",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Оливковое масло",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Сода",
+        "productQuantity": 0.5,
+        "unitMeasurement": "ч. л."
+      },
+      {
+        "name": "Сахарная пудра",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      },
+      {
+        "name": "Ваниль",
+        "productQuantity": 0,
+        "unitMeasurement": "по вкусу"
+      }
+    ],
+    "cookingInstructions": {
+      "1": "В миске смешать творог, яйца, муку, сахар, соду и соль до однородной консистенции.",
+      "2": "ВВ небольшом сотейнике оливковое масло хорошо разогреть.",
+      "3": "При помощи чайной ложки или руками скатать из теста шарики, каждый размером чуть меньше грецкого ореха.",
+      "4": "Бросить пончики в кипящее масло и жарить на небольшом огне, постоянно переворачивая шумовкой.",
+      "5": "Готовые пончики выложить на бумажное полотенце и оставить на одну-две минуты — чтобы оно впитало лишнее масло. Подавать пончики горячими, выложив на блюдо и посыпав сахарной пудрой, смешанной с ванилином."
+    }
+  }
+]
+
